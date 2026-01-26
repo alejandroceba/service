@@ -1,0 +1,21 @@
+---
+title: "Programa y cronograma de actividades de servicio social"
+
+---
+
+**Nombre del proyecto**: Análisis de la red eléctrica de generación distribuida fotovoltaica (GDFV) de México (2017-2025)
+
+### Objetivos
+
+#### Objetivo general
+
+#### Objetivos específicos
+
+1. Describir
+2. Analizar
+3. Modelar
+4. Predecir
+
+### Justificación
+
+### Descripción detallada de las actividades
