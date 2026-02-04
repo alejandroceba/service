@@ -54,9 +54,9 @@ Se ha observado un aumento de la generación fotovoltaica distribuida en México
 
 | Actividad | Feb. | Mar. | Abr. | May. | Jun. | Jul. |
 |:----------|:-----|:-----|:-----|:-----|:-----|:-----|
-| Literatura y conceptos | x | | | | | |
-| EDA | x | | | | | |
-| Correlación | | x | | | | |
-| Modelado | | | x | | | |
-| Predicción | | | | x | x | |
-| Reporte | | | | | | x |
+| Literatura y conceptos | [x] | | | | | |
+| EDA | [x] | | | | | |
+| Correlación | | [x] | | | | |
+| Modelado | | | [x] | | | |
+| Predicción | | | | [x] | [x] | |
+| Reporte | | | | | | [x] |
