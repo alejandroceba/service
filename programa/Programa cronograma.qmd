@@ -3,56 +3,59 @@ title: "Programa y cronograma de actividades de servicio social"
 
 ---
 
-**Nombre del proyecto**: Pronóstico de la inyección fotovoltaica distribuida a la red con almacenamiento en baterías en México
+**Nombre del proyecto**: Ciencia de Datos e Inteligencia Artificial Aplicadas a Sistemas Energéticos Complejos
 
 ### Objetivos
 
 #### Objetivo general
 
-Predecir el comportamiento la red eléctrica de generación distribuida fotovoltaica (GDFV) de México en diferentes escenarios de integración de sistemas de almacenamiento de energía con baterías (BESS) con base en datos de los nodos de 2017-2025.
+Analizar de sistemas energéticos complejos mediante el uso de ciencia de datos e inteligencia artificial, para el estudio de dinámicas energéticas, la modelación de escenarios y el apoyo a procesos de planeación y transición energética.
 
 #### Objetivos específicos
 
 1. Describir y visualizar el conjunto de datos
-3. Analizar el comportamiento de 2017-2025 de la red de distribución
-4. Encontrar tendencias en las variables de la red de distribución (2017-2025)
+3. Analizar el comportamiento del sistema energético: red de distribución en México
+4. Encontrar tendencias en las variables de la red de distribución
 5. Correlacionar el comportamiento de la red de distribución con variables geográficas, económicas, demográficas y climáticas
-6. Modelar el comportamiento de la red de distribución
-7. Predecir el comportamiento de la red de distribución de aquí a 2030 en distintos escenarios de integración de BESS a la red
+6. Modelar el comportamiento de la red de distribución aplicando técnicas de aprendizaje automático
+7. Predecir el comportamiento de la red de distribución en distintos escenarios aplicando modelos estocásticos
 
 ### Justificación
 
-Se ha observado un aumento de la generación fotovoltaica distribuida en México, lo cual, junto con la mayor disponiblidad de tecnologías de almacenamiento, puede cambiar radicalmente los patrones de consumo en la red de distribución. Los planes de expansión del sector eléctrico no han tomado en cuenta la posibilidad de que cambien los patrones de consumo. Entender cómo se va a comportar la red de distribución con base en su comportamiento pasado y en relación a otras variables sirve para evitar problemas en la operación de la red y planear políticas de acuerdo a las tendencias observadas.
+Se ha observado un aumento de la generación fotovoltaica distribuida en México, lo cual, junto con la disminución del costo de tecnologías de almacenamiento, puede cambiar radicalmente los patrones de consumo en la red de distribución. Los planes de expansión del sector eléctrico no han tomado en cuenta la posibilidad de que cambien los patrones de consumo. Entender cómo se va a comportar la red de distribución con base en su comportamiento pasado y en relación a otras variables sirve para evitar problemas en la operación de la red y planear políticas de acuerdo con las tendencias observadas.
 
 ### Descripción detallada de las actividades
 
 1. Revisión de literatura y repaso de conceptos: búsqueda de artículos y libros y repaso de conceptos de teoría de grafos
-2. Descripción, visualización y análisis exploratorio (EDA) del conjunto de datos
-    1. Visualizar la distribución espacial de los nodos de la red de distribución
-    2. Visualizar la serie de tiempo de la capacidad disponible
-    3. Visualizar la distribución espacial y temporal del conjunto de datos en un histograma tridimensional para cada año
-    4. Ajustar el cambio en el tiempo de la capacidad disponible con un modelo matemático
+2. Búsqueda, descripción, visualización y análisis exploratorio (EDA, por sus siglas en inglés) del conjunto de datos
+    1. Búsqueda de datos en sistemas energéticos en fuentes reconocidas
+    2. Organización y limpieza de datos
+    3. Visualización de la distribución espacial de los nodos de la red de distribución
+    4. Visualización de la serie de tiempo de la capacidad disponible
+    5. Visualización de la distribución espacial y temporal del conjunto de datos en un histograma tridimensional para cada año
+    6. Ajuste del cambio en el tiempo de la capacidad disponible con un modelo matemático
 3. Correlación del comportamiento con otras variables
     1. Visualización del mapa de disponiblidad del recurso fotovoltaico de México
-    2. Cálculo de la generación fotovoltaica máxima en cada nodo a partir de la capacidad disponible y la hora solar pico promedio (HSP) de cada año en cada nodo
     3. Visualización de la red eléctrica de distribución
     4. Representación de la red eléctrica de distribución como grafo ponderado dirigido
-    5. Correlacionar espacial y temporalmente el comportamiento de la red de distribución con la evolución espacial y temporal de variables económicas y demográficas
+    5. Correlación espacial y temporal del comportamiento de la red de distribución con la evolución espacial y temporal de variables económicas y demográficas
 4. Modelado del comportamiento de la red de distribución
-    1. Creación de modelo matemático que describa el comportamiento de la red en términos de su comportamiento pasado y en función de las otras variables analizadas
-5. Predicción del comportamiento de la red de distribución de aquí a 2030 en distintos escenarios de integración de BESS
+    1. Aplicación de técnicas de aprendizaje automático al análisis de la información energética
+    2. Creación de modelo matemático que describa el comportamiento de la red en términos de su comportamiento pasado y en función de las otras variables analizadas
+5. Predicción del comportamiento de la red de distribución en distintos escenarios de integración de sistemas de almacenamiento de energía con baterías (BESS, por sus siglas en inglés)
     1. Describir las tendencias observadas en el despliegue de tecnologías BESS en México y en otros países
     2. Describir diferentes escenarios posibles de integración de BESS a la red de distribución con base en estas tendencias
     3. Integrar estos escenarios al modelo de la red
-    4. Predecir el comportamiento de la red en cada escenario
+    4. Aplicación de modelos estocásticos para predecir el comportamiento de la red en cada escenario
     5. Estimar la incertidumbre asociada a estas predicciones
 6. Reporte y artículo de divulgación
-    1. Escribir reporte de la investigación
-    2. Escribir artículo de divulgación sobre la investigación para la revista La Renovable
+    1. Presentación gráfica de resultados
+    2. Elaboración de reporte de la investigación
+    3. Escritura de artículo de divulgación sobre la investigación para la revista _La Renovable_
 
 ### Cronograma de actividades
 
-| Actividad | Feb. | Mar. | Abr. | May. | Jun. | Jul. |
+| Actividad | Abr. | May. | Jun. | Jul. | Ago. | Sep. |
 |:----------|:-----|:-----|:-----|:-----|:-----|:-----|
 | Literatura y conceptos | x | | | | | |
 | EDA | x | | | | | |
