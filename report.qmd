@@ -21,7 +21,7 @@ Analizar de sistemas energéticos complejos mediante el uso de ciencia de datos 
 
 ### Justificación
 
-Se ha observado un aumento de la generación fotovoltaica distribuida en México, lo cual, junto con la disminución del costo de tecnologías de almacenamiento, puede cambiar radicalmente los patrones de consumo en la red de distribución. Los planes de expansión del sector eléctrico no han tomado en cuenta la posibilidad de que cambien los patrones de consumo. Entender cómo se va a comportar la red de distribución con base en su comportamiento pasado y en relación a otras variables sirve para evitar problemas en la operación de la red y planear políticas de acuerdo con las tendencias observadas @appino2017\].
+Se ha observado un aumento de la generación fotovoltaica distribuida en México, lo cual, junto con la disminución del costo de tecnologías de almacenamiento, puede cambiar radicalmente los patrones de consumo en la red de distribución. Los planes de expansión del sector eléctrico no han tomado en cuenta la posibilidad de que cambien los patrones de consumo. Entender cómo se va a comportar la red de distribución con base en su comportamiento pasado y en relación a otras variables sirve para evitar problemas en la operación de la red y planear políticas de acuerdo con las tendencias observadas @appino2017.
 
 ### Descripción detallada de las actividades
 
